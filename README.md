@@ -2,6 +2,8 @@
 
 > 原创Canvas从入门到实战教程。持续更新。
 
+本教程配套示例仓库：[https://github.com/wanglin2/canvas-demos](https://github.com/wanglin2/canvas-demos)。
+
 ## 目录
 
 * [开始](开始.md)
